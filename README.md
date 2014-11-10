@@ -7,6 +7,11 @@ Markdox is a documentation generator based on Dox and Markdown with support for 
 
 This plugin is a `gulp` wrapper for it.
 
+
+## This is a fork
+
+I forked this repository to change `package.json` dependencies.
+
 ## Usage
 
 First, install `gulp-markdox` as a development dependency:
